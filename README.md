@@ -22,7 +22,10 @@
 
 <div align="center" class="contacts" style="display: flex; flex-flow: column wrap">
   <details open>
-	<summary>My contacts</summary><br>
+  <summary>My contacts</summary><br>
+
+  ```Feel free to write if you have any questions of interest.```
+
   <a href="https://t.me/yowori"><img src="https://i.postimg.cc/NMBWJLZd/tg.png" width="50" height="50"/></a>
   <a href="https://discord.gg/mSYpGPj5Nf"><img src="https://i.postimg.cc/J0dvzx0F/discord.png" width="50" height="50"/></a>
   <a href="https://steamcommunity.com/id/yowori"><img src="https://i.postimg.cc/3JVzMtP4/steam.png" width="50" height="50"/></a>
